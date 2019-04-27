@@ -1,3 +1,3 @@
 # Iai-javascript
 
-Isaac's adventures in learning JavaScript syntax and projects through sandbox experimentation
+A sandbox for learning and experimenting with .js syntax and projects
